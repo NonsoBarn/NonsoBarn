@@ -3,8 +3,8 @@
 
 <h2>✨ About Me</h2>
 <ul>
-<li>👨‍💻 I work with **javaScript**.</li>
-<li>🌱 I’m currently learning **ReactJs & NextJs**.</li>
+<li>👨‍💻 I work with <strong>javaScript</strong>.</li>
+<li>🌱 I’m currently learning <strong>ReactJs & NextJs</strong>.</li>
 <li>💞️ I’m looking to collaborate on Frontend projects.</li>
 <li>📫 Reach me @nonsobarn on all social platforms.</li>
 </ul>
