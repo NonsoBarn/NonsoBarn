@@ -2,10 +2,12 @@
 <p>I'm a Frontend Web Developer</p>
 
 <h2>✨ About Me</h2>
-<p>👨‍💻 I work with **javaScript**.</p>
-<p>🌱 I’m currently learning **ReactJs & NextJs**.</p>
-<p>💞️ I’m looking to collaborate on Frontend projects.</p>
-<p>📫 Reach me @nonsobarn on all social platforms.</p>
+<ul>
+<li>👨‍💻 I work with **javaScript**.</li>
+<li>🌱 I’m currently learning **ReactJs & NextJs**.</li>
+<li>💞️ I’m looking to collaborate on Frontend projects.</li>
+<li>📫 Reach me @nonsobarn on all social platforms.</li>
+</ul>
 
 <!---
 NonsoBarn/NonsoBarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
