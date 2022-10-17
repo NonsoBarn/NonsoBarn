@@ -1,4 +1,4 @@
-<h1>Hey👋, I’m Nonso (Cr38Tor)</h1>
+<h1>Hey👋, I’m Nonso</h1>
 <p>I'm a Frontend Web Developer</p>
 
 <h2>✨ About Me</h2>
