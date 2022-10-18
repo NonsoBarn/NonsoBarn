@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nonsobarn@gmail.com**
 
-- ⚡ Fun fact: **www.linkedin.com/in/nonsobarn**
+- ⚡ Fun fact: **I share Tech content on Twitter & Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
