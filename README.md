@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs Projects**
 
-- 👨‍💻 All of my projects are available at [comingsoon...](comingsoon...)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **nonsobarn@gmail.com**
 
