@@ -7,9 +7,9 @@
 
 - 🔭 I work with **JavaScript & its Frameworks**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript & NextJs**
 
-- 👯 I’m looking to collaborate on **ReactJs & Projects**
+- 👯 I’m looking to collaborate on **ReactJs Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NonsoBarn](https://github.com/NonsoBarn)
 
