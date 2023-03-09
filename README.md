@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nonsobarn" target="blank"><img src="https://img.shields.io/twitter/follow/nonsobarn?logo=twitter&style=for-the-badge" alt="nonsobarn" /></a> </p>
 
-- 🔭 I work with **JavaScript & its Frameworks**
+- 🔭 I work with **JavaScript & ReactJs**
 
 - 🌱 I’m currently learning **TypeScript & NextJs**
 
