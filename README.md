@@ -7,7 +7,7 @@
 
 - 🔭 I work with **JavaScript,Typescript,Reactjs & Nextjs**
 
-- 🌱 I’m currently learning **NodeJS & ExpressJS**
+- 🌱 I’m currently learning **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NonsoBarn](https://github.com/NonsoBarn)
 
