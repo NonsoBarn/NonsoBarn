@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nonsobarn@gmail.com**
 
-- 📄 Know about my experiences [https://nonsobarn.netlify.app/](https://nonsobarn.netlify.app/)
+- 📄 Know about my experiences [[https://nonsobarn.vercel.app/](https://nonsobarn.vercel.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
