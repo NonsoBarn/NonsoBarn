@@ -7,7 +7,7 @@
 
 - 🔭 I work with **JavaScript,Typescript,Reactjs & Nextjs**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB**
 
 - 👯 I’m looking to collaborate on **Web & Mobile projects**
 
