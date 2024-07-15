@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/nonsobarn" target="blank"><img src="https://img.shields.io/twitter/follow/nonsobarn?logo=twitter&style=for-the-badge" alt="nonsobarn" /></a> </p>
 
-- 🔭 I work with **JavaScript,Typescript,Reactjs & Nextjs**
+- 🔭 I work with **JavaScript,Typescript,Reactjs, Nextjs, NodeJS, ExpressJS & MongoD**
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB**
+- 🌱 I’m currently learning **PHP & Laravel**
 
 - 👯 I’m looking to collaborate on **Web & Mobile projects**
 
