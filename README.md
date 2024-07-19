@@ -3,21 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nonsobarn&label=Profile%20views&color=0e75b6&style=flat" alt="nonsobarn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nonsobarn" target="blank"><img src="https://img.shields.io/twitter/follow/nonsobarn?logo=twitter&style=for-the-badge" alt="nonsobarn" /></a> </p>
 
-- 🔭 I work with **JavaScript,Typescript,Reactjs, Nextjs, NodeJS, ExpressJS & MongoD**
-
-- 🌱 I’m currently learning **PHP & Laravel**
-
-- 👯 I’m looking to collaborate on **Web & Mobile projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NonsoBarn](https://github.com/NonsoBarn)
-
-- 💬 Ask me about **FrontEnd Web Development**
-
-- 📫 How to reach me **nonsobarn@gmail.com**
-
-- 📄 Know about my experiences [[https://nonsobarn.vercel.app/](https://nonsobarn.vercel.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
