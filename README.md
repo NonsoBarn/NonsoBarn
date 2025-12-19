@@ -41,41 +41,15 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+<!-- ---
 
 ## 📈 **GitHub Analytics**
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoBarn&layout=compact&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=34495e&langs_count=8" alt="Top Languages" />
-</div>
+</div> -->
 
 <!-- <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NonsoBarn&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" width="500"/>
 </div> -->
 
-
-
----
-
-
-## 🤝 **Let's Collaborate!**
-
-I'm always open to discussing **tech, new opportunities, or potential collaborations**.
-
-💬 **Ask me about:** Full Stack Development, Cloud Architecture, or DevOps Best Practices
-
-📫 **How to reach me:** [Email](mailto:hello@example.com) | [Twitter](https://twitter.com/NonsoBarn)
-
-⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
-
----
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-⭐ **Star some of my repositories if you find them useful!** ⭐
-
-</div>
-
-</div>
