@@ -6,6 +6,8 @@
 
 🌟 *Building products end to end, from the app to the infrastructure* 🌟
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&vCenter=true&width=480&lines=Full+Stack+Engineer;Mobile+Engineer+(React+Native);DevOps+%26+Site+Reliability+Engineer;Building+from+the+app+to+the+infrastructure)](https://git.io/typing-svg)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NonsoBarn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonsobarn/)
 
@@ -80,15 +82,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=flat-square&logo=amplitude&logoColor=white)
 
-<!-- ---
+---
 
 ## 📈 **GitHub Analytics**
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoBarn&layout=compact&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=34495e&langs_count=8" alt="Top Languages" />
-</div> -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NonsoBarn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=github_dark" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoBarn&layout=compact&hide_border=true&langs_count=8&hide=c%2B%2B,php,cmake,java&theme=github_dark" alt="Top Languages" />
+</div>
 
-<!-- <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NonsoBarn&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" width="500"/>
-</div> -->
-
+<div align="left">
+<img src="https://streak-stats.demolab.com/?user=NonsoBarn&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" width="500"/>
+</div>
