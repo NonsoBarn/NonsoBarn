@@ -6,8 +6,6 @@
 
 🌟 *Building products end to end, from the app to the infrastructure* 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&vCenter=true&width=480&lines=Full+Stack+Engineer;Mobile+Engineer+(React+Native);DevOps+%26+Site+Reliability+Engineer;Building+from+the+app+to+the+infrastructure)](https://git.io/typing-svg)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NonsoBarn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonsobarn/)
 
